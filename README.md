@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project is a slot game built with PixiJS, an HTML5 rendering library. The game features a matrix of symbols that fall into place, with animations and score calculations based on matching symbols.
+This project is a slot game built with PixiJS, an HTML5 rendering library. The game features a matrix of symbols that fall into place, with animations and score calculations based on matching symbols. "connect" versions of matching symbols are displayed
 
 ## Demo
 
