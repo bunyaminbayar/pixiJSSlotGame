@@ -4,6 +4,10 @@
 
 This project is a slot game built with PixiJS, an HTML5 rendering library. The game features a matrix of symbols that fall into place, with animations and score calculations based on matching symbols.
 
+## Demo
+
+https://solodevs.com/portfolio/pixi-slot/
+
 ## Features
 
 - **Dynamic Symbol Matrix:** Displays a grid of symbols with customizable rows and columns.
@@ -12,6 +16,21 @@ This project is a slot game built with PixiJS, an HTML5 rendering library. The g
 - **Configurable Settings:** Easily adjust game settings such as symbol size, fall speed, and scoring.
 
 ## Getting Started
+
+### File structure
+
+
+```
+.
+├── assets
+│   ├── İmages
+├── js
+│   └── main.js
+├── css
+│   └── styles.css
+├── index.html
+└── README.md
+```
 
 ### Prerequisites
 
